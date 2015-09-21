@@ -4,6 +4,7 @@
 
 Bose-Hubbard model, according to Zhang et al (2001)
 H = -J \sum_<ij> a_i^+ a_j + a_j^+ a_i + U/2 \sum_i n_i (n_i-1)
+NOT FINISHED YET
 
 Arguments:
     <M>      Number of sites [default: 3]
